@@ -20,9 +20,11 @@
       "@store/*": ["./src/store/*"],
       "@pages/*": ["./src/pages/*"],
       "@lib/*": ["./src/lib/*"],
+      "@styles/*": ["./src/styles/*"],
       "@theme": ["./src/theme"]
     }
   },
   "exclude": ["node_modules", ".next", "out"],
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.js"]
 }
+

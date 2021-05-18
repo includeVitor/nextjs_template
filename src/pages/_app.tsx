@@ -11,10 +11,9 @@ const Noop = ({ children }: { children: React.ReactNode }): JSX.Element => (
 
 /**
  *
- * Visualização de produto utiliznado <NextSeo>
+ * Visualização de produto utilizando <NextSeo>
  */
-{
-  /* <NextSeo
+/* <NextSeo
   title={product.name}
   description={product.description}
   openGraph={{
@@ -31,7 +30,6 @@ const Noop = ({ children }: { children: React.ReactNode }): JSX.Element => (
     ],
   }}
 /> */
-}
 
 export default function App({ Component, pageProps }: AppProps): JSX.Element {
   const Layout = (Component as any).Layout || Noop
