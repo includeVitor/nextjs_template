@@ -1,0 +1,26 @@
+{
+  "title": "NextJS",
+  "titleTemplate": "%s - NextJS",
+  "description": "Next.js",
+  "openGraph": {
+    "title": "NextJS",
+    "description": "Next.js",
+    "type": "website",
+    "locale": "pt_BR",
+    "url": "https://yourUrl.com",
+    "site_name": "Next.js",
+    "images": [
+      {
+        "url": "/yourUrl.png",
+        "width": 800,
+        "height": 600,
+        "alt": "Next.js"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@nextjs",
+    "site": "@nextjs",
+    "cardType": "images"
+  }
+}

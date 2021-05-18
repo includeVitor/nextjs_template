@@ -19,6 +19,7 @@
       "@features/*": ["./src/features/*"],
       "@store/*": ["./src/store/*"],
       "@pages/*": ["./src/pages/*"],
+      "@lib/*": ["./src/lib/*"],
       "@theme": ["./src/theme"]
     }
   },

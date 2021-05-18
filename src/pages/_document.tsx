@@ -32,9 +32,6 @@ class AppDocument extends Document {
     return (
       <Html>
         <Head>
-          <link href="/fonts/Rubik-Light.ttf" as="font" crossOrigin="" />
-          <link href="/fonts/Rubik-Medium.ttf" as="font" crossOrigin="" />
-          <link href="/fonts/Rubik-Regular.ttf" as="font" crossOrigin="" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <body>
